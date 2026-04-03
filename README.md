@@ -4,12 +4,12 @@
 <p>A modern and interactive <b>Travel Destination Slider</b> Website built using <b>HTML, CSS, and JavaScript</b>, showcasing beautiful travel locations with smooth transitions, stylish UI, and responsive design.</p>
 <h2>Features</h2>
 <ul>
-  <li><b>Full-Screen Image Slider:Displays large, high-quality images that cover the entire screen for an immersive experience.</b></li>
-  <li><b>Thumbnail Preview Images:Shows small preview images that allow users to quickly navigate between destinations.</b></li>
-  <li><b>Smooth Transitions and Animations:Provides seamless slide changes and animations for a visually appealing user experience.</b></li>
-  <li><b>Responsive Design (Mobile & Desktop):Ensures the website works perfectly on all devices, including mobiles, tablets, and desktops.</b></li>
-  <li><b>Modern UI with Overlay Text:Combines stylish design with text displayed over images for better readability and aesthetics.</b></li>
-  <li><b>Navigation Buttons (Next/Previous):Allows users to easily move between slides using simple navigation controls.</b></li>
+  <li><b>Full-Screen Image Slider:</b> Displays large, high-quality images that cover the entire screen for an immersive experience.</li>
+  <li><b>Thumbnail Preview Images:</b> Shows small preview images that allow users to quickly navigate between destinations.</li>
+  <li><b>Smooth Transitions and Animations:</b> Provides seamless slide changes and animations for a visually appealing user experience.</li>
+  <li><b>Responsive Design (Mobile & Desktop):</b> Ensures the website works perfectly on all devices, including mobiles, tablets, and desktops.</li>
+  <li><b>Modern UI with Overlay Text:</b> Combines stylish design with text displayed over images for better readability and aesthetics.</li>
+  <li><b>Navigation Buttons (Next/Previous):</b> Allows users to easily move between slides using simple navigation controls.</li>
 </ul>
 <h2>Technologies Used</h2>
   <ul>
